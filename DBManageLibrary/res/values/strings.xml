@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBManageClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_dbmanager">DB Manager</string>
+    <string name="current_db_version">Current DB Version</string>
+    <string name="available_db_version">Available DB Versions</string>
+    <string name="done">Done</string>
+    <string name="sync">Sync</string>
+
+</resources>
